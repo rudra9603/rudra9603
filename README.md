@@ -1,6 +1,5 @@
 
-👋 Hello, I'm Rudra kumar, a passionate software developer with a deep love for coding and creating innovative solutions. 
-I believe that technology has the power to change the world, and I'm excited to be part of that change.
+👋 Hello, I'm Rudra kumar!!!
 
 🚀 My Journey:
 
