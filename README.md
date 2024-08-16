@@ -1,30 +1,21 @@
+<h1 align="center">Hi 👋, I'm Rudra Kumar</h1>
+<h3 align="center">Aspiring Data Scientist</h3>
 
-👋 Hello, I'm Rudra kumar!!!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra9603&label=Profile%20views&color=0e75b6&style=flat" alt="rudra9603" /> </p>
 
-🚀 My Journey:
+- 🔭 I’m currently working on **lumina-defense firewall**
 
-I've been on a coding adventure for 7 years since school, and during this time,
- I've had the privilege of working on a variety of projects and interesting questions.
- These experiences have allowed me to develop my skills in C , C++ , PYTHON and JAVA.
-Java was part of my syllabus from 6th class i continued solving different kinds of mathematical and different algorithms questions, then i learned
-new languages and made projects such as 'LOGIN AND REGISTRATION SYSTEM','Hand cricket game'.	
+- 💬 Ask me about **Data science**
 
-🔧 Skills & Expertise:
- Java , Python , C++ , C.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rudra-kumar-a5ba44243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra-kumar-a5ba44243" height="30" width="40" /></a>
+<a href="https://kaggle.com/rudrakumar96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rudrakumar96" height="30" width="40" /></a>
+</p>
 
-💡 Development Philosophy:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-I'm a firm believer in open-source software and collaborative coding. I enjoy solving complex problems and working in teams to build elegant solutions. My coding philosophy is to write clean, efficient, and well-documented code that not only solves immediate problems but can also serve as a learning resource for others.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra9603&show_icons=true&locale=en&layout=compact" alt="rudra9603" /></p>
 
-🌱 What's Next:
-
-I'm constantly learning and exploring new horizons in the world of technology. My current interests include Data Science , Machine learning.I'm excited to connect with fellow developers, collaborate on interesting projects, and learn from each other.
-
-📬 Let's Connect:
-
-If you're as passionate about coding and technology as I am, let's connect! Feel free to reach out if you want to discuss coding, share ideas, collaborate on projects, or just geek out about the latest tech trends. I look forward to connecting with like-minded developers in this ever-evolving coding community.
-
-🌐 Explore My Projects:
-
-Browse my GitHub repositories to see the code I've written and the projects I've worked on. If you find something interesting or have suggestions, please don't hesitate to open issues or submit pull requests. Let's learn and grow together!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra9603&" alt="rudra9603" /></p>
