@@ -1,20 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rudra Kumar</h1>
+# 👋 Hey there, I’m Rudra Kumar
 
+🎯 Aspiring Data Scientist | ML & Cybersecurity Enthusiast | Tech Explorer | B.Tech CSE (AI & ML)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra9603&label=Profile%20views&color=0e75b6&style=flat" alt="rudra9603" /> </p>
+---
 
-<img align = "right" alt ="data science" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+### 🛠️ What I Do
+- 🤖 Build end-to-end ML solutions & predictive models  
+- 🔐 Develop tools for web app security (WAF, traffic classification, attack detection)  
+- 📊 Passionate about data analytics, algorithmic optimization & real-world problem solving  
+- 🧠 Currently diving into cybersecurity with the Google Cybersecurity Certificate  
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rudra-kumar-a5ba44243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra-kumar-a5ba44243" height="30" width="40" /></a>
-<a href="https://kaggle.com/rudrakumar96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rudrakumar96" height="30" width="40" /></a>
-</p>
+## 🧰 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📦 Machine Learning & Data Science
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra9603&show_icons=true&locale=en&layout=compact" alt="rudra9603" /></p>
+### 🔐 Cybersecurity & Tools
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-3C3C3C?style=for-the-badge&logo=owasp&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra9603&" alt="rudra9603" /></p>
+### 🌐 Web & Backend
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### ⚙️ Other Tools & Skills
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+### 🚀 Projects I’m Proud Of
+- 🔐 **Secure Database Portal** – Encryption, RBAC, MFA, custom KMS with Django & PostgreSQL  
+- 🚘 **Car Price Predictor** – Built with Linear Regression using the Quikr Cars dataset  
+- 🛡️ **Web Application Firewall** – Real-time ML-based malicious traffic classification  
+- 🌐 **Static Code Analyzer (WIP)** – Tool to analyze and detect vulnerabilities in codebases  
+- 🌊 **Smart Water Bottle** – IoT project to monitor water quality & temperature with real-time display and heating features  
+
+---
+
+### 🌱 Currently Learning
+- Cybersecurity (Google Course)  
+- GANs for data balancing  
+- Building my own Virtual Machine & Static Code Analyzer  
+- Advanced ML and ethical hacking tools  
+
+---
+
+### 🏆 Highlights
+- 🧠 Developed ML models with 97%+ accuracy on UNSW_NB15 dataset  
+- ⚔️ Participated in multiple hackathons like **Dextrex**  
+- 🎤 Led product presentation for a **Fit Band for mental health** monitoring  
+
+---
+
+### 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RudraKumar-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/rudra-kumar-ai-ml/](https://www.linkedin.com/in/rudra-kumar-a5ba44243/))  
+📬 [Email Me](mailto:rudra9603m@gmail.com)  
+💬 Open to collaborations in ML, cybersecurity, or innovative product ideas!
+
+---
+
+> “The best way to learn is to break things, fix them, and do it better the next time.”
