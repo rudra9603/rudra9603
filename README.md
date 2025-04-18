@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Rudra Kumar
 
-🎯 Aspiring Data Scientist | ML & Cybersecurity Enthusiast | Tech Explorer | B.Tech CSE (AI & ML)
+🎯  ML & Cybersecurity Enthusiast | Tech Explorer | B.Tech CSE (AI & ML)
 
 ---
 
